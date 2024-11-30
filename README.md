@@ -6,7 +6,7 @@ which you can trigger by using postman or directly from your web browser
 We are using java 8 along apache-maven-3.6.3 and spring 2.5.5 versions.
 
 Once you deployed the service you can check the implementation by doing this request:
-http://localhost:8081/currency-conversion/from/{from}/to/{to}/quantity/{quantity}.
+http://localhost:8080/currency-conversion/from/{from}/to/{to}/quantity/{quantity}.
 
 The code has been added by following these instructions:
 

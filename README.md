@@ -15,7 +15,7 @@ Create FX Converter to allow conversion between any currency pair
 Consider a data structure holding conversion rates between few currencies. Provider
 implementation to get the converted value form one currency to other, note the
 conversion rate for these may not be directly available.
-e.g
+e.g`1
 AUD/USD 0.7754
 USD/CAD 1.2330
 CAD/CHF 0.9313
